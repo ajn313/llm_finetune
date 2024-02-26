@@ -60,6 +60,9 @@ Note, in this case, the for loop iterates a pandas dataframe `df_code` with a co
 
 #### Prepare the environment on your machine 
 
+NYU folks using Singularity container, please go here:
+https://sites.google.com/nyu.edu/nyu-hpc/hpc-systems/greene/software/singularity-with-miniconda
+
 I recommend the followinf for fine-tuning. I created a conda environment inside the singularity container, however, if you are not using container, you may create a conda environment direclty on your machine,
 
 ```
